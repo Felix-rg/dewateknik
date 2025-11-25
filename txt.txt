@@ -1,0 +1,26 @@
+<!--CEK ODP-->
+        <section id="cekOdp" class="cekOdp grey lighten-3 scrollspy" style="height: fit-content; width: auto; align-content: center;">
+            <div class="container">
+                <div class="row">
+                    <div class="col m6 s12">
+                        <img src="img/wilayah_jaringan_Indihome.webp" alt="" style="display: block; max-width: 100%; margin-top: 25px;">
+                    </div><br>
+                    <div class="col m6 s12">
+                        <h4 class="right grey-text text-darken-1">Mengapa DEWA PSU?</h4><br><br><br>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae perferendis fugiat laboriosam, culpa, eligendi quo placeat veritatis eveniet esse molestias cupiditate, similique minus odit consectetur deserunt? Voluptate illo tempore vel accusantium. Perferendis et atque eveniet, repellendus earum at corporis asperiores nobis rerum. Nulla non ipsa est voluptas dignissimos hic? Ullam eligendi quo perferendis minus vel porro ipsa officiis voluptatum, est adipisci iure impedit? Doloribus officiis repudiandae qui. Error eos, doloremque et ab maiores quae rem distinctio vel exercitationem consequatur repellat commodi molestias vero. Harum minima porro labore fuga, nobis in assumenda rerum quasi voluptatum itaque consectetur blanditiis quibusdam quae tempore.</p>
+                    </div><br>
+                </div>
+            </div>
+        </section>
+        <!--GARIS-->
+        <section id="garis" class="garis" style="margin-top: 30px; margin-right: 0;">
+            <div class="container">
+                <div class="row">
+                    <div class="col s12">
+                        <div class="progress">
+                            <div class="determinate pink accent-4" style="width: 100%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <br>
